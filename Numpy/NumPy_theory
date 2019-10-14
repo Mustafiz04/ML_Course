@@ -1,0 +1,11 @@
+It is highly recommended you to install Python using the Anaconda distribution to make sure all underlying dependencies (such as Linear Algebra liberies) all sync up with the use of a conda install
+
+If you have Anaconda, install NumPy by going to your terminal or command prompt and typing          
+                
+                        conda install numpy
+                         pip install numpy
+                         
+
+NumPy arrays are the main way we will use NumPy throughtout the courses.
+NumPy arrays essentially come in two flavours: Vectors and Matrices.
+Vector are strickly 1-D arrays and Matrices are 2-D (but you should note a matrix can stil have only one row or one column)
