@@ -1,0 +1,10 @@
+Pandas is an open sourse library built on top of NumPy.
+It allows for analysis and data cleaning and preparation.
+It excels in performance and productivity.
+It also has buil-in visualization features.
+It can work with data from a wide variety of sources.
+
+You will need to install pandas by going to your command line or terminal and using either
+                
+                       conda install panda
+                       pip install panda
