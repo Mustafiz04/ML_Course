@@ -1,0 +1,9 @@
+Seaborn is a statistical plotting library.
+It has beautiful default styles.
+It also is designed to work very well with pandas dataframes objects
+
+You'll need to install it with pip or conda at your command line or terminal with:
+                
+                    conda install seaborn
+                            or
+                     pip install seaborn
