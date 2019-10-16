@@ -1,0 +1,9 @@
+Matplotlib is the most popular plotting libarary for Python.
+It gives you control over every aspect of a figure.
+It was designes to have a similar feel to Matlab's graphical plotting
+
+You'll need to install it with pip or conda at your command line or terminal with:
+            
+                conda install matplotlib
+                        or
+                pip install matplotlib
