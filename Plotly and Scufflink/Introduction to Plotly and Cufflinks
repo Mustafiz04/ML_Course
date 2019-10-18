@@ -1,0 +1,10 @@
+Plotly is an interactive visualization library.
+Cufflinks connects plotly with Pandas.
+Before we explore these library you'll need to install them.  
+
+
+You'll need to install it with pip at our command line or terminal with:
+                    
+                    pip install plotly
+                        and
+                    pip install sufflinks
